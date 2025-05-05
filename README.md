@@ -8,51 +8,52 @@ A clean, responsive news website layout built using **HTML5** and **CSS3**. This
 
 ## 🚀 Technologies Used
 
-- ✅ HTML5 – Semantic structure for accessibility and SEO.
-- ✅ CSS3 – Custom styling using modern features.
-- ✅ CSS Grid – Powerful layout system for responsive design.
+- ✅ **HTML5** – Semantic structure for accessibility and SEO
+- ✅ **CSS3** – Custom styling using modern features
+- ✅ **CSS Grid** – Flexible layout system for responsive design
 
 ## 🎯 Main Features
 
-- **Responsive Design** – Optimized for desktop, tablet, and mobile.
-- **CSS Grid Layout** – Complex yet clean structure using grid-based layout.
-- **Minimalist UI** – Focus on readability and design clarity.
-- **Multi-section content** – Hero, articles, and sidebar blocks.
+- **Responsive Design** – Works seamlessly on desktop, tablet, and mobile
+- **Grid-Based Layout** – Built entirely with CSS Grid
+- **Clean UI** – Minimalist, modern design with visual hierarchy
+- **Multi-section Page** – Hero, sidebar, featured articles, and more
 
 ## 📁 Folder Structure
 
+```
 news-grid/
-├── index.html # Main page layout
-├── about.html # Optional subpage
+├── index.html            # Main layout
 ├── css/
-│ └── style.css # All core styles
+│   └── style.css         # Core styling
 ├── images/
-│ └── ... # Optimized image assets
-└── README.md # Project overview
-
-bash
-Copy
-Edit
+│   └── ...               # Optimized images
+└── README.md             # Project documentation
+```
 
 ## 🧪 How to Run Locally
 
-1. Clone the repository:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/binyamin12302/news-grid.git
+   cd news-grid
+   ```
 
-```bash
-git clone https://github.com/binyamin12302/news-grid.git
-cd news-grid
-Open index.html in your browser (double-click or use Live Server if using VS Code).
+2. Open `index.html` directly in your browser  
+   Or use VS Code with the Live Server extension for best results.
 
-No installation or build tools required – this is a static project.
+📦 *No dependencies or build steps – just open and run.*
 
-🎓 Purpose
+## 🎓 Purpose
+
 This project demonstrates:
 
-Mastery of HTML semantics.
+- Strong knowledge of HTML structure
+- Practical use of CSS Grid for layouts
+- Attention to design, spacing, and responsiveness
 
-Proficiency with CSS Grid and responsive layouts.
+## 📌 Notes for Interviewers
 
-Clean, scalable code practices for frontend development.
+This project is static and frontend-only. It was created to demonstrate layout proficiency and clean, scalable HTML/CSS practices. It’s lightweight and optimized for display on all devices.
 
-📌 Notes for Interviewers
-This is a static frontend project created to demonstrate core layout and styling abilities using only HTML and CSS. It can be used as a base for future dynamic content or integrated into a full-stack system.
+---
