@@ -1,62 +1,58 @@
-בהחלט! הנה README מקצועי, מסודר וברמה מרשימה לפרויקט שלך **news-grid**, שנבנה ב־HTML ו־CSS:
-
----
-
-```markdown
 # 📰 News Grid
 
-A responsive news website layout built with **HTML** and **CSS**, focusing on clean structure, modern design, and CSS Grid for layout management.
+A clean, responsive news website layout built using **HTML5** and **CSS3**. This project showcases modern layout techniques with **CSS Grid** and a strong focus on structure, design, and accessibility.
 
-## 📸 Live Demo
+## 🌐 Live Demo
 
-➡️ [Visit the Live Site](https://kind-davinci-6e3928.netlify.app/)
+👉 [Open Website](https://kind-davinci-6e3928.netlify.app/)
 
-## 🧰 Tech Stack
+## 🚀 Technologies Used
 
-- HTML5
-- CSS3 (including CSS Grid)
+- ✅ HTML5 – Semantic structure for accessibility and SEO.
+- ✅ CSS3 – Custom styling using modern features.
+- ✅ CSS Grid – Powerful layout system for responsive design.
 
-## 📐 Features
+## 🎯 Main Features
 
-- 🎯 **Responsive Design**: Fully adaptable layout for mobile, tablet, and desktop devices.
-- 🧱 **CSS Grid Layout**: Structured and scalable layout built with CSS Grid for maximum flexibility.
-- 🖼️ **Modern Aesthetics**: Clean UI/UX suitable for a news or content-driven website.
-- 🧾 **Multi-page structure**: Includes homepage, article template, and about page.
+- **Responsive Design** – Optimized for desktop, tablet, and mobile.
+- **CSS Grid Layout** – Complex yet clean structure using grid-based layout.
+- **Minimalist UI** – Focus on readability and design clarity.
+- **Multi-section content** – Hero, articles, and sidebar blocks.
 
-## 🗂️ Project Structure
+## 📁 Folder Structure
 
-```
+news-grid/
+├── index.html # Main page layout
+├── about.html # Optional subpage
+├── css/
+│ └── style.css # All core styles
+├── images/
+│ └── ... # Optimized image assets
+└── README.md # Project overview
 
-📁 news-grid/
-├── 📄 index.html         # Main landing page
-├── 📄 about.html         # About the site
-├── 📄 article.html       # Single article template
-├── 📁 css/
-│   └── 📄 style.css      # Core styling using CSS Grid
-├── 📁 img/               # Image assets
-└── 📄 favicon.png        # Site icon
+bash
+Copy
+Edit
 
-````
+## 🧪 How to Run Locally
 
-## 🚀 How to Run Locally
-
-No build process is required. Just:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/binyamin12302/news-grid.git
 cd news-grid
-````
+Open index.html in your browser (double-click or use Live Server if using VS Code).
 
-Then open `index.html` in your browser.
+No installation or build tools required – this is a static project.
 
-✅ That’s it — it’s a static website.
+🎓 Purpose
+This project demonstrates:
 
-## 📌 Notes for Interviewers
+Mastery of HTML semantics.
 
-This project was built to demonstrate strong command of:
+Proficiency with CSS Grid and responsive layouts.
 
-* Semantic HTML structure
-* CSS Grid & layout techniques
-* Responsive design principles
+Clean, scalable code practices for frontend development.
 
-It's intentionally static — no JavaScript or frameworks — to highlight clean layout and frontend fundamentals.
+📌 Notes for Interviewers
+This is a static frontend project created to demonstrate core layout and styling abilities using only HTML and CSS. It can be used as a base for future dynamic content or integrated into a full-stack system.
